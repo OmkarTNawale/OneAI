@@ -1,0 +1,17 @@
+#tools{
+    display:flexbox;
+    align-content: center;
+    text-align: justify;
+    background-color: rgb(234, 63, 214);
+}
+img{
+    size:px;
+}
+body{
+    background-color: blanchedalmond;
+    text-align: center;
+}
+h1{
+    color: black;
+    text-align: center;
+}
